@@ -1,6 +1,6 @@
 {
 	"name": "svelte-avatars",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"private": false,
 	"description": "A customizable avatar component for Svelte.",
 	"repository": {
@@ -11,7 +11,7 @@
 	"license": "MIT",
 	"keywords": [
 		"svelte",
-		"avatar",
+		"avatars",
 		"component"
 	],
 	"files": [
@@ -28,12 +28,6 @@
 		  "svelte": "./dist/index.js"
 		}
 	},
-
-  	"typesVersions": {
-    	">4.0": {
-      		"avatar": ["Avatar.svelte.d.ts"]
-    	}
-  	},
 
 	"scripts": {
 		"dev": "vite dev",
