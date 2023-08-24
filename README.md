@@ -1,4 +1,4 @@
-## Svelte Avatars 👽
+## Svelte Avatars
 
 A tiny and customizable avatar component for Svelte.
 
@@ -16,7 +16,7 @@ A tiny and customizable avatar component for Svelte.
 <Avatar name="Rich Harris" alt="A very cool guy."/>
 ```
 
-[VIEW & EDIT LIVE ON REPL](https://svelte.dev/repl/c1a4c86f3a3c458fa775d3177042a442?version=4.2.0)
+**[Live REPL Example](https://svelte.dev/repl/c1a4c86f3a3c458fa775d3177042a442?version=4.2.0)**
 
 ### Properties
 
