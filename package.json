@@ -1,6 +1,6 @@
 {
 	"name": "svelte-avatars",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"private": false,
 	"description": "A customizable avatar component for Svelte.",
 	"repository": {
@@ -20,13 +20,13 @@
 	],
 	"files": [
 		"dist",
-		"src/Avatar.svelte",
-		"src/utilities.js",
+		"src/lib/Avatar.svelte",
+		"src/lib/utilities.js",
 		"package.json",
 		"README.md"
 	],
 
-	"svelte": "src/Avatar.svelte",
+	"svelte": "src/lib/Avatar.svelte",
 
 	"scripts": {
 		"dev": "vite dev",
