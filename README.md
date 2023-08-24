@@ -10,7 +10,7 @@ A customizable avatar component for Svelte, improved version of the svelte-avata
 
 ```
 <script>
-  import Avatar from "svelte-avatar";
+  import Avatar from "svelte-avatars";
 </script>
 
 <Avatar name="Rich Harris" alt="A very cool guy." src="https://avatars.githubusercontent.com/u/1162160?v=4" />
@@ -29,7 +29,7 @@ A customizable avatar component for Svelte, improved version of the svelte-avata
 | textColor      | No     | String | Black | Text color of the avatar initials. |
 | size      | No     | String | 64px | The avatar size. |
 | borderRadius      | No     | String | 50% | Border-radius of the avatar. |
-| square      | No     | Boolean | False | If true, avatar will be a square |
+| square      | No     | Boolean | False | If true, avatar will be a square. |
 | randomBgColor      | No     | Boolean | False | If true, avatar background will be colored randomly. |
 | boxShadow      | No     | String | - | Add box-shadow to the avatar. |
 

@@ -1,6 +1,6 @@
 {
 	"name": "svelte-avatars",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"private": false,
 	"description": "A customizable avatar component for Svelte.",
 	"repository": {
@@ -9,6 +9,10 @@
 	},
 	"author": "Mustafa Akın",
 	"license": "MIT",
+
+	"main": "dist/index.js",
+	"module": "dist/index.d.ts",
+
 	"keywords": [
 		"svelte",
 		"avatars",
@@ -22,12 +26,7 @@
 		"README.md"
 	],
 
-	"exports": {
-		".": {
-		  "types": "./dist/index.d.ts",
-		  "svelte": "./dist/index.js"
-		}
-	},
+	"svelte": "src/Avatar.svelte",
 
 	"scripts": {
 		"dev": "vite dev",
