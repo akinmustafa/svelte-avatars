@@ -9,6 +9,11 @@ A tiny and customizable avatar component for Svelte.
 ### Usage Example
 
 ```
+<!--
+	SSR COMPATIBLE USAGE (FOR SVELTEKIT USERS)
+	import { Avatar } from "svelte-avatars";
+-->
+
 <script>
   import Avatar from "svelte-avatars";
 </script>
