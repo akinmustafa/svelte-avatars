@@ -8,15 +8,15 @@ A customizable avatar component for Svelte, improved version of the svelte-avata
 
 ## Usage Example
 
-[REPL](https://svelte.dev/repl/c1a4c86f3a3c458fa775d3177042a442?version=4.2.0)
-
 ```
 <script>
   import Avatar from "svelte-avatars";
 </script>
 
-<Avatar name="Rich Harris" alt="A very cool guy." src="https://avatars.githubusercontent.com/u/1162160?v=4" />
+<Avatar name="Rich Harris" alt="A very cool guy."/>
 ```
+
+[Live on REPL](https://svelte.dev/repl/c1a4c86f3a3c458fa775d3177042a442?version=4.2.0)
 
 ![Example](https://github.com/akinmustafa/svelte-avatars/assets/60576164/83fa8e83-11d8-45a4-813c-b4720ccfe47d)
 
