@@ -14,7 +14,6 @@ yarn add svelte-avatars
 ### Usage Example
 
 ```
-
 # SSR COMPATIBLE USAGE (FOR SVELTEKIT USERS)
 # import { Avatar } from "svelte-avatars";
 
