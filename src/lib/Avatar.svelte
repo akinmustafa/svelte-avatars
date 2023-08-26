@@ -22,7 +22,7 @@
   const abbrLength = abbr.length;
 </script>
   
-<div aria-label={name} class="wrapper" style="{style} --src:{src}; --bgColor:{background}; --textColor:{textColor}; --size:{size}; --borderRadius:{square ? 0 : borderRadius}; --abbrLength:{abbrLength}; --boxShadow:{boxShadow}">
+<div aria-label={name} class="wrapper" style="{style}; --src:{src}; --bgColor:{background}; --textColor:{textColor}; --size:{size}; --borderRadius:{square ? 0 : borderRadius}; --abbrLength:{abbrLength}; --boxShadow:{boxShadow}">
   {#if src && !imageFail}
     <div class={imageLoading ? 'imageLoading' : ''}>
       <img alt={alt} class={`innerImage`} {src} on:error={() => (imageFail = true)} on:load={() => (imageLoading = false)}/>
