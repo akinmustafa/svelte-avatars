@@ -4,7 +4,7 @@ A tiny and customizable avatar component for Svelte.
 
 ### Installation
 
-`npm install svelte-avatars` / `yarn add svelte-avatars`
+```npm install svelte-avatars or yarn add svelte-avatars```
 
 ### Usage Example
 
