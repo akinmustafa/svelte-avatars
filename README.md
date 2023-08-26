@@ -1,6 +1,6 @@
 ## Svelte Avatars
 
-A tiny and customizable avatar component for Svelte.
+A tiny and customizable avatar component for Svelte & SvelteKit.
 
 ### Installation
 
