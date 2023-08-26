@@ -5,18 +5,18 @@ A tiny and customizable avatar component for Svelte.
 ### Installation
 
 ```
+# NPM
 npm install svelte-avatars
-or
+# YARN
 yarn add svelte-avatars
 ```
 
 ### Usage Example
 
 ```
-<!--
-	SSR COMPATIBLE USAGE (FOR SVELTEKIT USERS)
-	import { Avatar } from "svelte-avatars";
--->
+
+# SSR COMPATIBLE USAGE (FOR SVELTEKIT USERS)
+# import { Avatar } from "svelte-avatars";
 
 <script>
   import Avatar from "svelte-avatars";
