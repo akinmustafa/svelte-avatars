@@ -1,4 +1,4 @@
-## Svelte Avatars 😎
+## Svelte Avatars
 
 A tiny and customizable avatar component for Svelte & SvelteKit.
 
@@ -23,8 +23,9 @@ yarn add svelte-avatars
 
 **[Live REPL Example](https://svelte.dev/repl/c1a4c86f3a3c458fa775d3177042a442?version=4.2.0)**
 
-### Properties
-
+<details>
+  <summary><h3>Properties</h3></summary>
+  
 | Name  | Required | Type  | Default | Description |
 | ------------- |:-------------| :------------- | :------------- | :-------------
 | ```style```      | ```No```     | ```String``` | ```-``` | ```Style property for the avatar wrapper.``` |
@@ -40,8 +41,11 @@ yarn add svelte-avatars
 | ```square```      | ```No```     | ```Boolean``` | ```False``` | ```If true, avatar will be a square.``` |
 | ```randomBgColor```      | ```No```     | ```Boolean``` | ```False``` | ```If true, avatar background will be colored randomly.``` |
 
+</details>
+
 ### Supporting
 Contributions are welcome, you can also leave a star.
 
 ### License
 Released under MIT license.
+
