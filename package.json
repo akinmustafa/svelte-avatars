@@ -1,8 +1,8 @@
 {
 	"name": "svelte-avatars",
-	"version": "0.0.7",
+	"version": "0.0.8",
 	"private": false,
-	"description": "A customizable avatar component for Svelte & SvelteKit.",
+	"description": "A tiny and customizable avatar component for Svelte & SvelteKit.",
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:akinmustafa/svelte-avatars.git"
